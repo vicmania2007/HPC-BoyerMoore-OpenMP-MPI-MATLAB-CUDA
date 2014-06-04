@@ -19,6 +19,7 @@ Techniques :
 4. MATLAB PCT (Parallel Computing tool box)
 5. CUDA (Not completely implemented)
 
+Check the Final Project Report.pdf for complete analysis and performance measurements.
 
 
 
